@@ -23,7 +23,7 @@
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/policies/base" name="platform/frameworks/policies/base" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
-  <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" remote="replicant" revision="replicant" />
+  <project path="hardware/libhardware_legacy" name="hardware-libhardware-legacy" remote="replicant" revision="replicant" />
   <project path="hardware/ril" name="hardware-ril" remote="replicant" revision="replicant" />
   <project path="hardware/msm7k" name="hardware-msm7k" remote="replicant" revision="replicant" />
   <project path="prebuilt" name="platform/prebuilt" />
