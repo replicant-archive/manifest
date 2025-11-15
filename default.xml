@@ -119,7 +119,7 @@
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
-  <project path="external/srec" name="external_srec" remote="replicant" revision="replicant" />
+  <project path="external/srec" name="external-srec" remote="replicant" revision="replicant" />
   <project path="external/strace" name="platform/external/strace" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
   <project path="external/tcpdump" name="platform/external/tcpdump" />
